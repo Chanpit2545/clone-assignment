@@ -6,7 +6,7 @@ export function NavBar() {
       <div className="flex gap-8 items-center text-base ">
         <div className="flex gap-2 items-center text-lg">
           <a href="">
-            <img src="src/images/logo.png" alt="Logo" />
+            <img src="/logo.png" alt="Logo" />
           </a>
           <a href="">
             <p className="hover:underline">Untitled UI</p>

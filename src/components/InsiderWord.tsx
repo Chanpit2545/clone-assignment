@@ -6,7 +6,7 @@ export function InsiderWord() {
     <div className="pt-24">
       <div className="grid grid-cols-12 gap-24">
         <div className="col-span-3">
-          <img src="src\images\Image3.png" alt="Worker Image" />
+          <img src="\Image3.png" alt="Worker Image" />
         </div>
         <div className="col-span-9 space-y-5">
           <div className="flex gap-1 text-amber-400 text-xs">

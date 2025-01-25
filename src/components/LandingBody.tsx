@@ -28,7 +28,7 @@ export function LandingBody() {
         </a>
       </div>
       <div>
-        <img src="src/images/Image1.png" alt="Office image 1" />
+        <img src="/Image1.png" alt="Office image 1" />
       </div>
     </div>
   );

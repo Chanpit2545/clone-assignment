@@ -50,7 +50,7 @@ export function InfoBody() {
           </div>
         </div>
       </div>
-      <img src="src\images\Image2.png" alt="Office Image 2" />
+      <img src="\Image2.png" alt="Office Image 2" />
     </div>
   );
 }

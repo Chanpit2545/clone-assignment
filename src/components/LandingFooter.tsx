@@ -7,42 +7,42 @@ export function LandingFooter() {
       <div className="flex justify-between">
         <a href="">
           <img
-            src="src\images\Fictional company logo.png"
+            src="\Fictional company logo.png"
             alt="Boltshift logo"
             className="scale-75"
           />
         </a>
         <a href="">
           <img
-            src="src\images\Fictional company logo-1.png"
+            src="\Fictional company logo-1.png"
             alt="Lightbox logo"
             className="scale-75"
           />
         </a>
         <a href="">
           <img
-            src="src\images\Fictional company logo-2.png"
+            src="\Fictional company logo-2.png"
             alt="FeatherDev logo"
             className="scale-75"
           />
         </a>
         <a href="">
           <img
-            src="src\images\Fictional company logo-3.png"
+            src="\Fictional company logo-3.png"
             alt="Spherule logo"
             className="scale-75"
           />
         </a>
         <a href="">
           <img
-            src="src\images\Fictional company logo-4.png"
+            src="\Fictional company logo-4.png"
             alt="GlobalBank logo"
             className="scale-75"
           />
         </a>
         <a href="">
           <img
-            src="src\images\Fictional company logo-5.png"
+            src="\Fictional company logo-5.png"
             alt="Nietzsche logo"
             className="scale-75"
           />

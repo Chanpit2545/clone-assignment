@@ -4,7 +4,7 @@ export function FooterNavBar() {
       <div className="col-span-8 space-y-4">
         <div className="flex gap-2 items-center text-base font-semibold">
           <a href="">
-            <img src="src/images/logo.png" alt="Logo" />
+            <img src="/logo.png" alt="Logo" />
           </a>
           <a href="">
             <p className="hover:underline">Untitled UI</p>

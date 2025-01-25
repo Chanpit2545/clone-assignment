@@ -2,7 +2,7 @@ export function Form() {
   return (
     <div className="grid grid-cols-2 gap-16">
       <div className="col-span-1">
-        <img src="src\images\Image4.png" alt="Office Image 3" />
+        <img src="\Image4.png" alt="Office Image 3" />
       </div>
       <div className="col-span-1 space-y-4">
         <h2 className="text-2xl font-semibold">Let's start your project</h2>
