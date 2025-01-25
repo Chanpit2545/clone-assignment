@@ -10,7 +10,7 @@ export function InsiderWord() {
         </div>
         <div className="col-span-9 space-y-5">
           <div className="flex gap-1 text-amber-400 text-xs">
-            {Array.from({ length: 5 }, (_, index) => (
+            {Array.from({ length: 5 }, (_) => (
               <div>
                 <FaStar />
               </div>
