@@ -4,7 +4,7 @@ import { TfiLayoutLineSolid } from "react-icons/tfi";
 export function InsiderWord() {
   return (
     <div className="pt-24">
-      <div className="grid grid-cols-12 gap-24">
+      <div className="grid grid-cols-12 gap-16">
         <div className="col-span-3">
           <img src="\Image3.png" alt="Worker Image" />
         </div>

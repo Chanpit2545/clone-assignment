@@ -10,20 +10,22 @@ import { PromotingDetail } from "./components/PromotingDetail";
 
 function App() {
   return (
-    <div className="bg-[#53389E] text-white">
-      <div className="container px-24 py-4 space-y-24">
-        <NavBar />
-        <LandingBody />
-        <LandingFooter />
-      </div>
-      <div className="bg-white text-black">
-        <div className="container px-24 pt-24 pb-12 space-y-24">
-          <InfoBody />
-          <InsiderWord />
-          <PromotingDetail />
-          <Form />
-          <FooterNavBar />
-          <Footer />
+    <div className="flex justify-center">
+      <div className="bg-[#53389E] text-white">
+        <div className="container px-24 py-4 space-y-24">
+          <NavBar />
+          <LandingBody />
+          <LandingFooter />
+        </div>
+        <div className="bg-white text-black">
+          <div className="container px-24 pt-24 pb-12 space-y-24">
+            <InfoBody />
+            <InsiderWord />
+            <PromotingDetail />
+            <Form />
+            <FooterNavBar />
+            <Footer />
+          </div>
         </div>
       </div>
     </div>
